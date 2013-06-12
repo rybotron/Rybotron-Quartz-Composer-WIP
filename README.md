@@ -1,4 +1,4 @@
-Rybotron-Quartz-Composer-WIP
+Quartz Composer WIP
 ============================
 
 Quartz Composer works-in-progress

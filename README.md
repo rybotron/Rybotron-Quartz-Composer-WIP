@@ -9,3 +9,6 @@ Happy Colored Marbles:
 <br />
 ![Happy Colored Marbles](/images/happycoloredmarbles.png)
 
+Dotted Scanlines:
+![Happy Colored Marbles](/images/dottedscanlines.png)
+

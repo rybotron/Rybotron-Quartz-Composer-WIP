@@ -10,5 +10,9 @@ Happy Colored Marbles:
 ![Happy Colored Marbles](/images/happycoloredmarbles.png)
 
 Dotted Scanlines:
-![Happy Colored Marbles](/images/dottedscanlines.png)
+<br />
+![Dotted Scanlines](/images/dottedscanlines.png)
 
+GL Structure Shadows
+<br />
+![GL Structure Shadows](/images/glstructureshadows.png)

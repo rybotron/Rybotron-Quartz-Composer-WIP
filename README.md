@@ -1,5 +1,5 @@
 Rybotron Quartz Composer works-in-progress
-==========================================
+------------------------------------------
 
 Audiowave Joy:
 <br />

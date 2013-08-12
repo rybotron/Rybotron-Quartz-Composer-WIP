@@ -1,6 +1,13 @@
 Rybotron Quartz Composer works-in-progress
 ------------------------------------------
 
+Found Time
+<br />
+![Found Time](/images/foundtime.png)
+
+Minuek Circle Spline Remix
+![Found Time](/images/minuekcirclesplineremix.png)
+
 Audiowave Joy:
 <br />
 ![audiowavejoy](/images/audiowavejoy.png)
@@ -13,11 +20,7 @@ Dotted Scanlines:
 <br />
 ![Dotted Scanlines](/images/dottedscanlines.png)
 
-
 GL Structure Shadows
 <br />
 ![GL Structure Shadows](/images/glstructureshadows.png)
 
-Found Time
-<br />
-![Found Time](/images/foundtime.png)

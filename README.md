@@ -28,3 +28,7 @@ GL Structure Shadows
 Triangle Grid
 <br />
 ![Triangle Grid](/images/trianglegrid.png)
+
+EMIT Effector WIP
+<br />
+![EMIT Effector WIP](/images/emiteffectorwip.png)

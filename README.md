@@ -5,6 +5,10 @@ Crown
 <br />
 ![Crown](/images/crown.png)
 
+Tribute to Tycho - Awake ( Com Truise Remix )
+<br />
+[![Tycho](/images/tycho.png)]()
+
 Found Time
 <br />
 ![Found Time](/images/foundtime.png)

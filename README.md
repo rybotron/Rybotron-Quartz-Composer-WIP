@@ -7,7 +7,7 @@ Crown
 
 Tribute to Tycho - Awake ( Com Truise Remix )
 <br />
-[![Tycho](/images/tycho.png)]()
+[![Tycho](/images/tycho.png)](http://bit.ly/qctychoremix)
 
 Found Time
 <br />

@@ -9,6 +9,10 @@ Tribute to Tycho - Awake ( Com Truise Remix )
 <br />
 [![Tycho](/images/tycho.png)](http://bit.ly/qctychoremix)
 
+Inspired
+<br />
+[![Inspired](/images/inspired.png)](http://bit.ly/rybotron_inspired)
+
 Found Time
 <br />
 [![Found Time](/images/foundtime.png)](http://bit.ly/13I1XV1)

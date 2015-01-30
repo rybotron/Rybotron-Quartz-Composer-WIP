@@ -20,7 +20,7 @@ Inspired
 
 EMIT Harmonic Motion
 <br />
-[![Harmonic Motion](/images/emitharmonicmotion1.png)](http://bit.ly.com)
+[![Harmonic Motion](/images/emitharmonicmotion1.png)](http://bit.ly/harmonicmotion1)
 
 Found Time
 <br />

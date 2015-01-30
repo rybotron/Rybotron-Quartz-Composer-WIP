@@ -18,6 +18,10 @@ Inspired
 <br />
 [![Inspired](/images/inspired.png)](http://bit.ly/rybotron_inspired)
 
+EMIT Harmonic Motion
+<br />
+[![Harmonic Motion](/images/emitharmonicmotion1.png)](http://bit.ly.com)
+
 Found Time
 <br />
 [![Found Time](/images/foundtime.png)](http://bit.ly/13I1XV1)

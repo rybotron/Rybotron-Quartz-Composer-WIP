@@ -4,7 +4,7 @@ Rybotron Quartz Composer works-in-progress
 
 Bokehliedoscope
 <br />
-[![Bokehliedoscope](/images/bokehliedoscope.png)](http://bit.ly/rybotron_atan2)
+[![Bokehliedoscope](/images/bokehliedoscope.png)](http://bit.ly/bokehliedoscope)
 
 Atan 2
 <br />

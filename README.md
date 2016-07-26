@@ -2,6 +2,10 @@ Rybotron Quartz Composer works-in-progress
 ------------------------------------------
 #### Click the image to Download:
 
+Bokehliedoscope
+<br />
+[![Bokehliedoscope](/images/bokehliedoscope.png)](http://bit.ly/rybotron_atan2)
+
 Atan 2
 <br />
 [![Crown](/images/atan2.png)](http://bit.ly/rybotron_atan2)
